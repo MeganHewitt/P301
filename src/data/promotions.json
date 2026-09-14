@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Snacks Summer Promotion",
+    "category": "Snacks",
+    "startWeek": 1,
+    "endWeek": 5,
+    "baselineSales": 3780,
+    "promoSales": 4450,
+    "liftPercent": 17.7
+  },
+  {
+    "name": "Household Essentials Clearance",
+    "category": "Household",
+    "startWeek": 4,
+    "endWeek": 8,
+    "baselineSales": 6120,
+    "promoSales": 7240,
+    "liftPercent": 18.3
+  },
+  {
+    "name": "Personal Care Bundle Deal",
+    "category": "Personal Care",
+    "startWeek": 7,
+    "endWeek": 12,
+    "baselineSales": 4650,
+    "promoSales": 5890,
+    "liftPercent": 26.6
+  },
+  {
+    "name": "Loyalty Program Bonus Week",
+    "category": "All",
+    "startWeek": 10,
+    "endWeek": 12,
+    "baselineSales": 10640,
+    "promoSales": 12540,
+    "liftPercent": 17.9
+  }
+]

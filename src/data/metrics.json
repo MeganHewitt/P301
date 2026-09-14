@@ -1,0 +1,86 @@
+[
+  {
+    "week": "Wk 1",
+    "totalSales": 24500,
+    "salesVsPlan": 0.92,
+    "inventoryTurnRate": 4.1,
+    "footTrafficIndex": 98
+  },
+  {
+    "week": "Wk 2",
+    "totalSales": 25800,
+    "salesVsPlan": 0.95,
+    "inventoryTurnRate": 4.3,
+    "footTrafficIndex": 102
+  },
+  {
+    "week": "Wk 3",
+    "totalSales": 24200,
+    "salesVsPlan": 0.88,
+    "inventoryTurnRate": 4.0,
+    "footTrafficIndex": 94
+  },
+  {
+    "week": "Wk 4",
+    "totalSales": 28600,
+    "salesVsPlan": 1.05,
+    "inventoryTurnRate": 4.5,
+    "footTrafficIndex": 108
+  },
+  {
+    "week": "Wk 5",
+    "totalSales": 27300,
+    "salesVsPlan": 0.98,
+    "inventoryTurnRate": 4.2,
+    "footTrafficIndex": 104
+  },
+  {
+    "week": "Wk 6",
+    "totalSales": 26100,
+    "salesVsPlan": 0.91,
+    "inventoryTurnRate": 4.1,
+    "footTrafficIndex": 96
+  },
+  {
+    "week": "Wk 7",
+    "totalSales": 25900,
+    "salesVsPlan": 0.87,
+    "inventoryTurnRate": 3.9,
+    "footTrafficIndex": 88
+  },
+  {
+    "week": "Wk 8",
+    "totalSales": 26800,
+    "salesVsPlan": 0.93,
+    "inventoryTurnRate": 4.0,
+    "footTrafficIndex": 85
+  },
+  {
+    "week": "Wk 9",
+    "totalSales": 29400,
+    "salesVsPlan": 1.07,
+    "inventoryTurnRate": 4.6,
+    "footTrafficIndex": 110
+  },
+  {
+    "week": "Wk 10",
+    "totalSales": 31200,
+    "salesVsPlan": 1.10,
+    "inventoryTurnRate": 4.8,
+    "footTrafficIndex": 115
+  },
+  {
+    "week": "Wk 11",
+    "totalSales": 30800,
+    "salesVsPlan": 1.06,
+    "inventoryTurnRate": 4.7,
+    "footTrafficIndex": 112
+  },
+  {
+    "week": "Wk 12",
+    "totalSales": 32400,
+    "salesVsPlan": 1.09,
+    "inventoryTurnRate": 4.9,
+    "footTrafficIndex": 118
+  }
+]

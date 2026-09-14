@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SKU001",
+    "name": "Honey Roasted Almonds",
+    "category": "Snacks",
+    "weeklySalesTrend": [1240, 1380, 1120, 1650, 1520, 1410, 1290, 1380, 1780, 2100, 2050, 2240],
+    "stockStatus": "In Stock",
+    "promoActive": true,
+    "salesVsPlan": 1.08
+  },
+  {
+    "id": "SKU002",
+    "name": "Cheddar Cheese Crackers",
+    "category": "Snacks",
+    "weeklySalesTrend": [890, 920, 780, 1210, 1050, 920, 850, 910, 1340, 1520, 1480, 1680],
+    "stockStatus": "In Stock",
+    "promoActive": false,
+    "salesVsPlan": 0.95
+  },
+  {
+    "id": "SKU003",
+    "name": "Peanut Butter Granola Bars",
+    "category": "Snacks",
+    "weeklySalesTrend": [650, 710, 620, 850, 760, 680, 580, 630, 950, 1180, 1220, 1350],
+    "stockStatus": "Low",
+    "promoActive": false,
+    "salesVsPlan": 0.89
+  },
+  {
+    "id": "SKU004",
+    "name": "Laundry Detergent 64oz",
+    "category": "Household",
+    "weeklySalesTrend": [2100, 2250, 1980, 2620, 2400, 2180, 1920, 2050, 2780, 3120, 3050, 3380],
+    "stockStatus": "At Risk",
+    "promoActive": true,
+    "salesVsPlan": 0.91
+  },
+  {
+    "id": "SKU005",
+    "name": "All-Purpose Surface Cleaner",
+    "category": "Household",
+    "weeklySalesTrend": [1240, 1380, 1180, 1580, 1450, 1290, 1120, 1230, 1640, 1890, 1820, 2040],
+    "stockStatus": "In Stock",
+    "promoActive": false,
+    "salesVsPlan": 0.97
+  },
+  {
+    "id": "SKU006",
+    "name": "Dish Soap Concentrate",
+    "category": "Household",
+    "weeklySalesTrend": [780, 850, 720, 980, 920, 820, 720, 810, 1180, 1380, 1320, 1520],
+    "stockStatus": "In Stock",
+    "promoActive": false,
+    "salesVsPlan": 0.93
+  },
+  {
+    "id": "SKU007",
+    "name": "Shampoo 16oz Bottle",
+    "category": "Personal Care",
+    "weeklySalesTrend": [1520, 1680, 1420, 1890, 1750, 1580, 1380, 1520, 2050, 2420, 2380, 2680],
+    "stockStatus": "In Stock",
+    "promoActive": true,
+    "salesVsPlan": 1.12
+  },
+  {
+    "id": "SKU008",
+    "name": "Conditioner 16oz Bottle",
+    "category": "Personal Care",
+    "weeklySalesTrend": [1280, 1420, 1180, 1580, 1450, 1290, 1120, 1280, 1720, 2050, 2010, 2280],
+    "stockStatus": "In Stock",
+    "promoActive": false,
+    "salesVsPlan": 0.99
+  },
+  {
+    "id": "SKU009",
+    "name": "Body Lotion 8oz Pump",
+    "category": "Personal Care",
+    "weeklySalesTrend": [890, 980, 820, 1150, 1050, 920, 810, 920, 1280, 1520, 1480, 1680],
+    "stockStatus": "Low",
+    "promoActive": false,
+    "salesVsPlan": 0.88
+  },
+  {
+    "id": "SKU010",
+    "name": "Mixed Nut Trail Mix",
+    "category": "Snacks",
+    "weeklySalesTrend": [1100, 1210, 980, 1380, 1250, 1120, 970, 1080, 1480, 1750, 1680, 1890],
+    "stockStatus": "In Stock",
+    "promoActive": false,
+    "salesVsPlan": 0.94
+  },
+  {
+    "id": "SKU011",
+    "name": "Paper Towels 12-Pack",
+    "category": "Household",
+    "weeklySalesTrend": [2800, 3050, 2650, 3520, 3220, 2950, 2580, 2850, 3850, 4320, 4180, 4680],
+    "stockStatus": "At Risk",
+    "promoActive": true,
+    "salesVsPlan": 1.04
+  },
+  {
+    "id": "SKU012",
+    "name": "Toothpaste 6oz Tube",
+    "category": "Personal Care",
+    "weeklySalesTrend": [950, 1050, 880, 1220, 1100, 980, 850, 950, 1320, 1580, 1520, 1720],
+    "stockStatus": "In Stock",
+    "promoActive": false,
+    "salesVsPlan": 0.96
+  }
+]
